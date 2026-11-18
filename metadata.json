@@ -1,0 +1,6 @@
+{
+  "name": "Murphy Grammar",
+  "description": "Responsive bilingual mobile summary and interactive practice companion for Raymond Murphy's Essential Grammar in Use.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
